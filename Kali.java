@@ -1,5 +1,5 @@
 class Dog{
-    int no_of_eyes,no_of_legs;
+    int no_of_eyes,no_of_legs,nose;
     String breed;
 
     public void to_do(){
